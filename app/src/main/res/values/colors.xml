@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BASE Color -->
+    <color name="burger_actionbar">#b0120a</color> <!--B B2119-->
+    <color name="burger_actionbar_strip">#ffff00</color>
+    <color name="burger_card_background">#FFFFFF</color>
+    <color name="burger_card_shadow">#DADADA</color>
+
+    <!--<color name="bab_actionbar_transparent">#DD2c00</color>
+    <color name="bab_textcolor_weak_actionbar">#F5B6B5</color>
+
+    <color name="bab_background">#F2F2F2</color>
+    <color name="bab_card_background">#FFFFFF</color>
+    <color name="bab_card_shadow">#DADADA</color>
+    <color name="bab_card_shadow_end">#22DADADA</color>
+    <color name="bab_textcolor_strong">#2B2B2B</color>
+    <color name="bab_textcolor_weak">#8A8A8A</color>
+    <color name="bab_transparent_button_default">#00FFFFFF</color>
+    <color name="bab_transparent_button_pressed">#66dd2c00</color>
+    <color name="bab_green">#259b24</color>
+    <color name="bab_orange">#ff9800</color>
+    <color name="bab_red">#b0120a</color>
+    <color name="bab_grey">#3A3A3A</color> 0-->
+
+    <!--- --><!--
+    <integer-array name="ptr_colors">
+        <item>@color/bab_orange</item>
+        <item>@color/bab_red</item>
+        <item>@color/bab_green</item>
+    </integer-array>
+ -->
+</resources>

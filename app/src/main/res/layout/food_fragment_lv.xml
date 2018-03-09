@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp">
+
+    <include
+        android:id="@+id/left"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_marginRight="4dp"
+        android:layout_height="wrap_content"
+        layout="@layout/food_fragment_lv_item" />
+
+    <include
+        android:id="@+id/right"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        layout="@layout/food_fragment_lv_item" />
+
+
+</LinearLayout>
